@@ -1,3 +1,3 @@
-module github.com/m-ariany/go-ever
+module github.com/LearnGoFarsi/go-basics
 
 go 1.19
